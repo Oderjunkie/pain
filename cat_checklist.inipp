@@ -1,0 +1,11 @@
+[Main]
+
+[Info]
+name = "pain"
+version = "pain.pain.pain"
+description = "pain"
+
+[Download]
+dependencies = []
+files = []
+scripts = ["pain.ccs"]
